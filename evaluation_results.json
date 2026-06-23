@@ -1,0 +1,12 @@
+{
+  "baseline_accuracy": 0.4,
+  "finetuned_accuracy": 0.4333,
+  "improvement": 0.0333,
+  "test_set_size": 30,
+  "label_map": {
+    "Evidence-Based Analysis": 0,
+    "Reasoned Opinion": 1,
+    "Hot Take or Reaction": 2
+  },
+  "model": "distilbert-base-uncased"
+}
